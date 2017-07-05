@@ -1,9 +1,9 @@
 ---
 title: "Layout: Header Image Overlay"
 header:
-  overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
-  cta_url: "https://unsplash.com"
+  overlay_image: /assets/images/connectthedots.jpg
+  caption: "Photo credit: [**internetsociety**](https://www.internetsociety.org)"
+  cta_url: "https://www.internetsociety.org"
 categories:
   - Layout
   - Uncategorized
