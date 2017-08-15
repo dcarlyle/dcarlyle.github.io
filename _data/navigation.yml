@@ -1,17 +1,16 @@
 # main links
-main:
- - title: "Home"
-   href: "/"
+- title: "Home"
+  url: "/"
 
- - title: "About"
-   href: "/news/"
+- title: "About"
+  href: "/news/"
 
- - title: "Snippets"
-   subcategories:
-     - subtitle: "Example1"
-       subhref: "#"
-     - subtitle: "Example2"
-       subhref: "#"
+- title: "Snippets"
+  subcategories:
+  - subtitle: "Example1"
+    subhref: "#"
+  - subtitle: "Example2"
+    subhref: "#"
        
-  - title: "Quick-Start Guide"
-    url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+- title: "Quick-Start Guide"
+  url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
