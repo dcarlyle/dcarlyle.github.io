@@ -3,6 +3,8 @@ layout: archive
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
+excerpt: "Site map for all things past and present."
+sitemap: false
 ---
 
 {% include base_path %}
