@@ -3,7 +3,7 @@ main:
   - title: "Posts"
     url: /tags/
   - title: "Collections"
-    url: /collection-archive/
+    url: /categories/
   - title: "Sitemap"
     url: /sitemap/
   - title: "Terms and conditions"
