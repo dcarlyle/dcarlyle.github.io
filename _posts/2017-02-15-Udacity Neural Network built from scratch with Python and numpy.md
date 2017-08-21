@@ -3,7 +3,7 @@ title: "Udacity 1: Simple neural network in python"
 header:
   overlay_image: /assets/images/udacity1.jpg
   caption: "Photo credit: [**Viktor Kern**](https://unsplash.com/@viktorkern)"
-  cta_url: "https://unsplash.com/photos/UdGEXZtlx-E"
+  cta_url: "https://github.com/dcarlyle/udacity_deep_learning_foundations__p1/blob/master/dlnd-your-first-neural-network.ipynb"
 categories:
   - Machine learning
   - Development
