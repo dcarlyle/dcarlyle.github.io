@@ -13,7 +13,8 @@ tags:
 last_modified_at: 2017-08-18T11:45:09-04:00
 ---
 
-# Rogue chatbots or fake-news
+# Rogue chatbots
+
 People often worry about the unknown. People are fearful of change. In most cases technological advancements mean improved medical, home and working environments. But the fear with AI is that it may displace people from work or replace mankind. 
 
 I receive several emails a week from experts outside the area of computing, asking if we should be worried about new advancement in artificial intelligence (AI), usually their questions are within the quickly advancing subfield of machine learning called deep neural networks. 
