@@ -27,6 +27,7 @@ The famous roboticist [Rodney Brookes](https://techcrunch.com/2017/07/19/this-fa
 In the case of AlphaGo from Deepmind (a Google owned company), we saw the best human players in the world come head to head with one of the best AI algorithms, to play the ancient game of Go. Go is a strategic game with more possible moves than their are atoms in the known universe. While the logical moves in chess are described with the prefix *"I think..."* the moves in Go are prefixed with the emotional response *"I feel…"* In fact some of the moves made by AlphaGo were described as inspiring, [move 37 was thought to be one such move](https://www.wired.com/2016/03/two-moves-alphago-lee-sedol-redefined-future/).
 
 ![alt text](https://dcarlyle.github.io/assets/images/Mr_Lee_was_able_to_beat_AlphaGo_in_180_moves.jpg "Humans strike champion scores win against DeepMind computer AlphaGo")
+
 *image* - [dailymail - humans strike champion score](http://www.dailymail.co.uk/sciencetech/article-3491435/Humans-strike-champion-scores-win-against-Google-s-DeepMind-computer-AlphaGo-takes-1-million-prize-three-victories-row.html)
 
 ### Impressive? Yes and no.
@@ -46,6 +47,7 @@ Facebook’s AI Research ([FAIR](https://research.fb.com/category/facebook-ai-re
 * 3 balls
 
 ![alt text](https://dcarlyle.github.io/assets/images/Facebook_amazon_mechanical_turk.png "Training the chatbots")
+
 *image* - [Deal or No Deal? End-to-End Learning for Negotiation Dialogues - Mechanical Turk interface, used to collect a negotiation dataset](https://arxiv.org/pdf/1706.05125.pdf)
 
 
@@ -66,15 +68,19 @@ The research paper for the experiment can be found [here](https://arxiv.org/pdf/
 From what I understand in the paper the two bots are not developing a new language but using snippets of human scripted conversations to perform their negotiations. The bots have no understanding of the phrases they use. They just learn that some phrases are more persuasive than others and result in a favourable outcome in the negotiation (for which they are rewarded).
 
 ![alt text](https://dcarlyle.github.io/assets/images/Facebook_chatbot_phrasing.png "Phrasing")
-*image* - [Deal or No Deal? End-to-End Learning for Negotiation Dialogues - The model first generates a small set of candidate responses. For each candidate it simulates the future conversation by sampling, and estimates the expected future reward by averaging the scores. The system outputs the candidate with the highest expected reward.](https://arxiv.org/pdf/1706.05125.pdf)
+
+*image* - [Choosing the best response from all possible choices.](https://arxiv.org/pdf/1706.05125.pdf)
 
 In fact in the paper the authors appear to have an issue when both chatbots talked together, this is when they started to deviate from human language. 
 
-``` The second model is fixed as we found that updating the parameters of both agents led to divergence from human language.```
+``` 
+The second model is fixed as we found that updating the parameters of both agents led to divergence from human language.
+```
 
 Although I think this is a stretch to say "they deviated from human language", as the bots are using predefined phrases, *so the most they would be able to do is duplicate the predefined phrases or place them in an unusual order.*
 
 Below we see an example where the two bots are allowed to talk together without fixing the parameters for one of the chatbots:
+
 ```
 Bob: i can i i everything else  . . . <eos>
 Alice: balls have zero to me to me to me to me to me to me to me to me to <eos>
@@ -85,6 +91,7 @@ Alice: balls have a ball to me to me to me to me to me to me to me <eos>
 Bob: i . . . <eos>
 Alice: balls have zero to me to me to me to me to me to me to me to me to <eos>
 ```
+
 We see the phrase *to me* being repeatedly used, not because the chatbot understands it, but because the chatbot has observed this as a winning phrase from past human conversations. The language is certainly not made up, the phrases are just being used in an inappropriate structure, the only intelligence being applied is to reuse phrases with a statistically high weight associated with the most favourable outcome.
 
 ## Should we worry about any of it then?
