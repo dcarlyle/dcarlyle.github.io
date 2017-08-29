@@ -74,7 +74,8 @@ From what I understand in the paper the two bots are not developing a new langua
 In fact in the paper the authors appear to have an issue when both chatbots talked together, this is when they started to deviate from human language. 
 
 ``` 
-The second model is fixed as we found that updating the parameters of both agents led to divergence from human language.
+The second model is fixed as we found that updating the parameters of both agents 
+led to divergence from human language.
 ```
 
 Although I think this is a stretch to say "they deviated from human language", as the bots are using predefined phrases, *so the most they would be able to do is duplicate the predefined phrases or place them in an unusual order.*
