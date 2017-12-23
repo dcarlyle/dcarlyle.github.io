@@ -16,6 +16,7 @@ last_modified_at: 2017-08-18T11:45:09-04:00
 ---
 
 # Rogue chatbots
+
 *ref: Article Published in Mensa January 2018*
 
 People often worry about the unknown. Many are fearful of change. In most cases technological advancements mean improved medical, home and work environments. The fear with artificial intelligence (AI) is that it may displace people from jobs or replace mankind.
