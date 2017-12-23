@@ -10,10 +10,13 @@ categories:
 tags:
   - chatbots
   - AlphaGo
+  - Mensa
+  - Published
 last_modified_at: 2017-08-18T11:45:09-04:00
 ---
 
 # Rogue chatbots
+*ref: Article Published in Mensa January 2018*
 
 People often worry about the unknown. Many are fearful of change. In most cases technological advancements mean improved medical, home and work environments. The fear with artificial intelligence (AI) is that it may displace people from jobs or replace mankind.
 
@@ -114,3 +117,7 @@ The research paper cited numerous instances where the chatbots  initially feigne
 Earliest versions of driverless cars were so polite at junctions that they let all other cars ahead. More aggressive, human characteristics had to be incorporated into the design to resolve this issue. 
 
 AI is not a risk to us. The danger is in using data with aspects of human character, behaviour, emotions and flaws to train these machines. 
+
+
+*As published in Mensa January 2018*
+![alt text](https://dcarlyle.github.io/assets/images/mensa_publish_Dominic_carlyle_2018_s.png "Article Published in Mensa January 2018")
