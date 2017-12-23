@@ -119,5 +119,7 @@ Earliest versions of driverless cars were so polite at junctions that they let a
 AI is not a risk to us. The danger is in using data with aspects of human character, behaviour, emotions and flaws to train these machines. 
 
 
+
 *As published in Mensa January 2018*
+
 ![alt text](https://dcarlyle.github.io/assets/images/mensa_publish_Dominic_carlyle_2018_s.png "Article Published in Mensa January 2018")
