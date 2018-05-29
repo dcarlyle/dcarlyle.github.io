@@ -6,16 +6,16 @@ header:
   cta_url: "https://www.linkedin.com/in/dominiccarlyle/"
 categories:
   - Machine learning
-  - Driverless cars
+  - Security
+  - Data
 tags:
   - Machine Learning
   - GDPR
-  - cybersecurity
+  - Cybersecurity
 last_modified_at: 2017-08-18T11:45:09-04:00
 ---
 
 # GDPR & AI
-## General Data Protection Regulation's (GDPR) impact on Machine Learning (ML) algorithms
 
 The new General Data Protection Regulation (GDPR) legislation that came into effect today (May 25, 2018) potentially impacts all Machine Learning (an advanced area of AI and Cognitive Computing).
 
