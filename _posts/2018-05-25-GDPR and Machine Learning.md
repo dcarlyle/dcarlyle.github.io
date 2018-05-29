@@ -1,8 +1,8 @@
 ---
 title: "GDPR impact on AI"
 header:
-  overlay_image: /assets/images/The_Great_Robot_Race.jpg
-  caption: "Photo credit: [**Udacity**](https://youtu.be/saVZ_X9GfIM)"
+  overlay_image: /assets/images/Security.jpg
+  caption: "Photo credit: [**Scott Webb**](https://unsplash.com/@scottwebb)"
   cta_url: "https://www.linkedin.com/in/dominiccarlyle/"
 categories:
   - Machine learning
@@ -14,7 +14,8 @@ tags:
 last_modified_at: 2017-08-18T11:45:09-04:00
 ---
 
-# General Data Protection Regulation's (GDPR) impact on Machine Learning (ML) algorithms
+# GDPR & AI
+## General Data Protection Regulation's (GDPR) impact on Machine Learning (ML) algorithms
 
 The new General Data Protection Regulation (GDPR) legislation that came into effect today (May 25, 2018) potentially impacts all Machine Learning (an advanced area of AI and Cognitive Computing).
 
@@ -29,3 +30,6 @@ There has recently been an initiative from DARPA to try to address this, calledÂ
 Although it is perhaps a little more critical that the United States Advanced Research Projects Agency understand their algorithms if weaponized, as this may lead to more than a loss of data, but a loss of life in outlier situations.
 
 If they can crack this transparency it will play an important role withÂ FAT ML model (fairness, accountability and transparency in machine learning).
+
+## Resources
+*  Further information about algorithms and machine-learning from the UK governemnt's Information Commisioner's Office (ico.) - [**paper on big data, artificial intelligence, machine learning and data protection.**](https://dcarlyle.github.io/assets/big-data-ai-ml-and-data-protection.pdf)
