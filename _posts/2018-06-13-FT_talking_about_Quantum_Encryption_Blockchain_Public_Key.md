@@ -17,19 +17,19 @@ last_modified_at: 2017-08-18T11:45:09-04:00
 
 # What comes after public key encryption
 
-When we go online, make a payment or go to a protect website, we trust in the encryption working behind the scenes to protect us.
+When we go browse the Internet, read email or make an online payment, we trust in the encryption working behind the scenes to protect us.
 
-There are two commonly used froms of encryption, RSA asymetric Public and Private Key and the elliptic curve cryptography (ECC). The RSA cryptosystem use large prime numbers and ECC is based on discrete logarithms on an eliptic curve..
+There are two commonly used forms of encryption, RSA asymmetric Public and Private Key and the elliptic curve cryptography (ECC). The RSA cryptosystem uses large prime numbers and ECC is based on discrete logarithms on an eliptic curve.
 
-Both of these encryption technics are resistant to brute force attack, where an attacker would try every possible combination of keys, it is just not feasibly worth while to attempt this due to the numerous combinations. 
+Both of these encryption technics are resistant to brute force attack, where an attacker systematically attempts every possible key combination, it is just not feasibly worthwhile to attempt this due to the size of the task. 
 
-However with the quantum algorithms, such as Shor's, it could be possible in principle to break these two trusted encryption techniques.
+However, with the quantum algorithms, such as Shor's, it could be possible in principle to break these two trusted encryption techniques.
 
-A number of companies are now starting to provide the frameworks to emulate and prepare for quantum computing, such as [Microsofts Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit).
+Some companies are now starting to provide the frameworks to emulate and prepare for quantum computing, such as [Microsoft's Quantum Development Kit](https://www.microsoft.com/en-us/quantum/development-kit).
 
 Quantum computers are still in development, but the accuracy of them is improving and getting ever closer to their realisation. Quantum computation requires certain resources, such as the number of qubits used and the number of quantum gates.
 
-A cryptologically useful quantum computer would be a machine exponentially faster than classical computers, that could break nearly every kind of encryption used to protect banking, medical, business and government records around the world.
+A cryptologically useful quantum computer would be exponentially faster than classical computers and could break nearly every kind of encryption used to protect banking, medical, business and government records around the world.
 
 ## Talking to the FT
 Part of how I like to [stay informed](https://dcarlyle.github.io/assets/video/DOMINIC%20CARLYLE%2004%20(1).mp4)
