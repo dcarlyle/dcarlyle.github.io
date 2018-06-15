@@ -19,9 +19,9 @@ last_modified_at: 2017-08-18T11:45:09-04:00
 
 When we go browse the Internet, read email or make an online payment, we trust in the encryption working behind the scenes to protect us.
 
-There are two commonly used forms of encryption, RSA asymmetric Public and Private Key and the elliptic curve cryptography (ECC). The RSA cryptosystem uses large prime numbers and ECC is based on discrete logarithms on an eliptic curve.
+There are two commonly used forms of encryption, RSA asymmetric Public and Private Key and the elliptic curve cryptography (ECC). The RSA cryptosystem uses large prime numbers and ECC is based on discrete logarithms on an elliptic curve.
 
-Both of these encryption technics are resistant to brute force attack, where an attacker systematically attempts every possible key combination, it is just not feasibly worthwhile to attempt this due to the size of the task. 
+Both of these encryption techniques are resistant to brute force attack, where an attacker systematically attempts every possible key combination, it is just not feasibly worthwhile to attempt this due to the size of the task. 
 
 However, with the quantum algorithms, such as Shor's, it could be possible in principle to break these two trusted encryption techniques.
 
