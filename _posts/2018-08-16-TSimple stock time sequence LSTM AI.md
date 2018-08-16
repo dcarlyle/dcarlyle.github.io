@@ -1,5 +1,5 @@
 ---
-title: "Stock time sequnce analysis"
+title: "Stock time sequence analysis"
 header:
   overlay_image: /assets/images/data.jpg
   caption: "Photo credit: [**markusspiske**](https://unsplash.com/@markusspiske)"
