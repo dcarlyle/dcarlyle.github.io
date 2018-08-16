@@ -30,18 +30,28 @@ The ARIMA model combines three basic methods:
 
 
 ## A modern approach using artificial intelligence (AI)
-The code below uses Keras, an API used to simplify prototyping on top of AI frameworks like Google's Tensorflow. Google Tensorflow has its own flavour of Keras, which I use below with Python 3.6 to build a deep learning model.
+The approach uses Keras, an API used to simplify prototyping on top of AI frameworks like Google's Tensorflow. Google Tensorflow has its own flavour of Keras, which I use below with Python 3.6 to build a deep learning model.
 
 The very simple approach below uses only a single data point, the *closing price* with a deep neural network of only 2 layers using time sequence analysis recurrent networks variant LSTMs.
 
+The code can be found at [simple LSTM](https://github.com/dcarlyle/stocks_ml/blob/master/stockdemo.ipynb).
+
 ### Data set
-Our data is from the daily closing prices from S&P 500 from Jan 2000 to Aug 2016. The series is index in time order.
+The data was from the daily closing prices from S&P 500 from Jan 2000 to Aug 2016. The series was indexed in time order.
 
 ### Goal
-Our goal is to predict the closing price for any given date.
+The goal was to predict the closing price for any given date.
 
+### Output 
+![Results of analysis](https://dcarlyle.github.io/assets/images/data.jpeg "Results of LSTM DNN analysis")
 
-
+## Resources
+*  [Understanding LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+*  [Analysis](http://deeplearning.net/tutorial/lstm.html)
+*  [Eclipse Deeplearning4j](https://deeplearning4j.org/)
+*  [Recurrent rnn](https://www.tensorflow.org/tutorials/sequences/recurrent)
+*  [Time series prediction on Keras on Tensorflow](https://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/)
+*  [Evaluate performance](https://machinelearningmastery.com/evaluate-performance-deep-learning-models-keras/)
 
 
 
