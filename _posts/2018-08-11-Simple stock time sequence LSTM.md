@@ -1,15 +1,15 @@
 ---
 title: "LSTM time sequence analysis"
 header:
-  overlay_image: /assets/images/The_Great_Robot_Race.jpg
-  caption: "Photo credit: [**Udacity**](https://youtu.be/saVZ_X9GfIM)"
-  cta_url: "https://youtu.be/saVZ_X9GfIM"
+  overlay_image: /assets/images/data.jpeg
+  caption: "Photo credit: [Markus Spiske](https://unsplash.com/@markusspiske)"
+  cta_url: "https://github.com/dcarlyle/stocks_ml/blob/master/stockdemo.ipynb"
 categories:
   - Machine learning
-  - Driverless cars
+  - FinTech
 tags:
   - Machine Learning
-  - LiDAR
+  - FinTech
 last_modified_at: 2017-08-18T11:45:09-04:00
 ---
 
