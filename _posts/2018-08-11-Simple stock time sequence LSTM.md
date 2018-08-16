@@ -43,7 +43,7 @@ The data was from the daily closing prices from S&P 500 from Jan 2000 to Aug 201
 The goal was to predict the closing price for any given date.
 
 ### Output 
-![Results of analysis](https://dcarlyle.github.io/assets/images/data.jpeg "Results of LSTM DNN analysis")
+![Results of analysis](https://dcarlyle.github.io/assets/images/stock_analysis.png "Results of LSTM DNN analysis")
 
 ## Resources
 *  [Understanding LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
