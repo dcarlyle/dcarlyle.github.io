@@ -3,7 +3,7 @@ title: "What is Agile?"
 header:
   overlay_image: /assets/images/Agile_methodology.jpg
   caption: "Photo credit: [Conor Samuel](https://unsplash.com/@csbphotography)"
-  cta_url: "https://github.com/dcarlyle/stocks_ml/blob/master/stockdemo.ipynb"
+  cta_url: "https://www.atlassian.com/agile/kanban/kanban-vs-scrum"
 categories:
   - Agile
   - Methodologies
