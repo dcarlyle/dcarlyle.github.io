@@ -66,10 +66,10 @@ There are many ways to be Agile, Scrum, Exterme Programming, Crystal Clear and o
 We are uncovering better ways of developing software by doing it and helping others do it.
 
 Through this work we have come to value:
-**Individuals and interactions** *over processes and tools*
-**Working software** *over comprehensive documentation*
-**Customer collaboration** *over contract negotiation*
-**Responding to change** *over following a plan*
+1. **Individuals and interactions** *over processes and tools*
+2. **Working software** *over comprehensive documentation*
+3. **Customer collaboration** *over contract negotiation*
+4. **Responding to change** *over following a plan*
 
 
 ## 12 Principles
