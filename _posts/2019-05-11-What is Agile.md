@@ -18,16 +18,17 @@ Agile is an umbrella term for a number of different methodologies, tools, techni
 
 Steve Jobs once said “People don’t know what they want until you show it to them.” Software development and the defining of business processes is an iterative process, which is greatly improved by capturing the views of the end user during creation. 
 
-Agile is about empowering people, treating them as intellectual individuals, as Peter F. Drucker said “The best way to predict the future is to create it.” 
+Agile is about empowering people, treating them as intellectual individuals, as Peter F. Drucker said, “The best way to predict the future is to create it.” 
 
-*AGILE IS ABOUT DELIVERING ‘‘BEST POSSIBLE VALUE” NOT MAXIMUM POSSIBLE VALUE*
+**AGILE IS ABOUT DELIVERING ‘‘BEST POSSIBLE VALUE” NOT MAXIMUM POSSIBLE VALUE**
+
 That’s why most Agile approaches define project vision-Focusing on value delivery, not on fixed product de function on strict adherence to plan-Agile is about focusing on business value/ outcome, not strictly project plan/ output-Agile respects the urgency and important of priorities conveyed by the customer/ user, most prominently by incremental delivery and flexible sequencing. Agile respects the common sense that all requirements cannot be known at the outset, particularity when the outcomes are intangible and subject to an evolving understanding.
 
 ## Before
 Traditional approaches were based on sequential processes or waterfall of events, collectively known as *Plan driven*. Tasks were managed around a paradigm of process:
-1. *Concrete* - all work is understood before execution
-2. *Well-defined* - the inputs and outputs are consistent
-3. *Pre-determined* - the steps are predefined before development
+1. **Concrete** - all work is understood before execution
+2. **Well-defined** - the inputs and outputs are consistent
+3. **Pre-determined** - the steps are predefined before development
 
 ### Benefits
 Every step is clearly defined clearly, so this model is exceptionally easy for software engineers to develop a solution in rapidly and accurately. 
@@ -63,13 +64,13 @@ Costing projects can be harder to achieve as the output is not predefined for th
 There are many ways to be Agile, Scrum, Exterme Programming, Crystal Clear and other frameworks. In order to find a common ground between the various implementations a *Manifesto* was devised:
 
 We are uncovering better ways of developing software by doing it and helping others do it.
-<center>
+
 Through this work we have come to value:
-*Individuals and interactions* over processes and tools
-*Working software* over comprehensive documentation
-*Customer collaboration* over contract negotiation
-*Responding to change* over following a plan
-</center>
+**Individuals and interactions** *over processes and tools*
+**Working software** *over comprehensive documentation*
+**Customer collaboration** *over contract negotiation*
+**Responding to change** *over following a plan*
+
 
 ## 12 Principles
 Twleve Principles of Agile Software development expand on the sentences that make up the values defined in the manifesto:
