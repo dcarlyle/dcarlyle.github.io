@@ -24,6 +24,10 @@ Agile is about empowering people, treating them as intellectual individuals, as 
 
 That’s why most Agile approaches define project vision-Focusing on value delivery, not on fixed product de function on strict adherence to plan-Agile is about focusing on business value/ outcome, not strictly project plan/ output-Agile respects the urgency and important of priorities conveyed by the customer/ user, most prominently by incremental delivery and flexible sequencing. Agile respects the common sense that all requirements cannot be known at the outset, particularity when the outcomes are intangible and subject to an evolving understanding.
 
+Agile conflats:
+1. the adjective — the general idea of being more nimble, lean and iterative, and
+2. the noun — a concrete set of methodologies for how to structure product development.
+
 ## Before
 Traditional approaches were based on sequential processes or waterfall of events, collectively known as *Plan driven*. Tasks were managed around a paradigm of process:
 1. **Concrete** - all work is understood before execution
@@ -98,6 +102,33 @@ Kanban is all about visualizing your work, limiting work in progress, and maxim
 ### Scrum 
 Scrum teams commit to ship working software through set intervals called sprints. Their goal is to create learning loops to quickly gather and integrate customer feedback. Scrum teams adopt specific roles, create special artefacts, and hold regular ceremonies to keep things moving forward. 
 
+# Glossary
+*The Calendar* - the available time allotted to the project is split into blocks, often around 2 weeks, known as **sprint cycles.**  Each project team is allotted a number of cycles. Project stakeholders review the work at the end of each cycle.
+
+*Daily stand up* - 15minute limited meeting with 3 questions to each member:
+1. What did you do yesterday? 
+2. What are you working on today? 
+3. What are your obstructions?
+
+**Stories** - units of work are known as stories, they are written and assigned at the start of a cycle. The syntax for a story is:
+* *“As an X I can Y so that Z.”* For example: “As a user, I can save calendar events so that I can keep a customized calendar.”
+ 
+**Roles** - three roles:
+1. *Product Owner *- represents the “voice of the user.” Answers questions that arise, prioritizes work, and decides when work is completed to satisfaction.
+2. *Scrum Master* – scrum master removes any obstacles that impede the team.
+3. *Product Team* – responsible for collaborating on how to complete the work.
+
+```
+Warning - For Scrum to work there must be separation of the 2 roles "Product owner" and "Scrum Master". It means there’s someone whose main job is looking after the product right alongside someone whose main job is looking out for the process.
+```
+
+**Meetings** - to have a truly iterative approach to product development, *you’ve got to iterate the process too.* You have to put real thought and effort into optimizing how the team communicates and collaborates. That’s why there’s a meeting about meetings.
+
+**Acceptance** - Stakeholders can reject the team's work. This is important, but will only cost the team one cycle (2 weeks), as opposed to many months from a Waterfall project.
+
+**Diversity** - Encouraging ownership in the product by the team also encourages the team to share additional skills and curiosity, e.g. a developer who is also very good at cryptography may have good ideas for where to focus cybersecurity testing.
+
+**Eavesdrop** - Team members should be in close proximity (by location or always on video conferencing), this enables them to eavesdrop on one another’s progress, offer ideas and work together to solve issues. Meeting notes, wireframes, and other project-related assets are all stored on an internal wiki, where anyone can dip in and see the latest updates on any project in a cycle, or what’s ahead on our project roadmap. **This can reduce management meetings.**
 
 
 # Ref
