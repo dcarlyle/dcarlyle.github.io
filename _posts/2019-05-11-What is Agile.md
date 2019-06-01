@@ -40,7 +40,7 @@ Every step is clearly defined clearly, so this model is exceptionally easy for s
 Waterfall is easy to budget against, as the product is defined before development, so fix pricing is easy to define and agree on between developers and the business/product owners. Changes on route are managed through change requests.
 
 ### Disadvantages
-Developing a system is usually performed in tandem with defining a business process. Businesses do not sand still during a development phase. As processes are defined and put into practice, feedback occurs for improvement. The traditional Waterfall approach captures these improvements in the next working release or phase of the project. However there may be a long time between phases.
+Developing a system is usually performed in tandem with defining a business process. Businesses do not stand still during a development phase. As processes are defined and put into practice, feedback occurs for improvement. The traditional Waterfall approach captures these improvements in the next working release or phase of the project. However there may be a long time between phases.
 
 The rigid approach of the Waterfall process can restrict innovation, as the business may see issues in their initial design during early demos of the product, but are unable to act on them until later phases.
 
