@@ -20,11 +20,11 @@ Steve Jobs once said “People don’t know what they want until you show it to 
 
 Agile is about empowering people, treating them as intellectual individuals, as Peter F. Drucker said, “The best way to predict the future is to create it.” 
 
-**AGILE IS ABOUT DELIVERING ‘‘BEST POSSIBLE VALUE” NOT MAXIMUM POSSIBLE VALUE**
+**AGILE IS ABOUT DELIVERING "BEST POSSIBLE VALUE” NOT MAXIMUM POSSIBLE VALUE**
 
-That’s why most Agile approaches define project vision-Focusing on value delivery, not on fixed product de function on strict adherence to plan-Agile is about focusing on business value/ outcome, not strictly project plan/ output-Agile respects the urgency and important of priorities conveyed by the customer/ user, most prominently by incremental delivery and flexible sequencing. Agile respects the common sense that all requirements cannot be known at the outset, particularity when the outcomes are intangible and subject to an evolving understanding.
+That’s why most Agile approaches define project vision focusing on value delivery, not on a fixed product. Agile respects the common sense that all requirements cannot be known at the outset, particularity when the outcomes are intangible and subject to an evolving understanding. With each iteration the customer is able to review the output and shape the product with the help of the product owner.
 
-Agile conflats:
+Agile conflates:
 1. the adjective — the general idea of being more nimble, lean and iterative, and
 2. the noun — a concrete set of methodologies for how to structure product development.
 
