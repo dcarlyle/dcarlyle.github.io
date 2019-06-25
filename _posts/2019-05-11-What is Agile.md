@@ -22,14 +22,14 @@ Agile is about empowering people, treating them as intellectual individuals, as 
 
 **AGILE IS ABOUT DELIVERING "BEST POSSIBLE VALUE” NOT MAXIMUM POSSIBLE VALUE**
 
-That’s why most Agile approaches define project vision focusing on value delivery, not on a fixed product. Agile respects the common sense that all requirements cannot be known at the outset, particularity when the outcomes are intangible and subject to an evolving understanding. With each iteration, the customer is able to review the output and shape the product with the help of the product owner.
+That’s why most Agile approaches define a project vision focusing on value of delivery, not on a fixed product. Agile respects that not all requirements can be known at the outset, particularity when the outcomes are intangible and subject to an evolving of understanding. With each iteration, the customer is able to review the output and shape the product with the help of the product owner.
 
 Agile conflates:
-1. the adjective — the general idea of being more nimble, lean and iterative, and
-2. the noun — a concrete set of methodologies for how to structure product development.
+1. *adjective* — the general idea of being more nimble, lean and iterative.
+2. *noun* — a concrete set of methodologies for how to structure product development.
 
 ## Before
-Traditional approaches were based on sequential processes or waterfall of events, collectively known as *Plan driven*. Tasks were managed around a paradigm of the process:
+Traditional approaches were based on sequential processes or a waterfall of events, collectively known as *Plan driven*. Tasks were managed around a paradigm of the process:
 1. **Concrete** - all work is understood before execution
 2. **Well-defined** - the inputs and outputs are consistent
 3. **Pre-determined** - the steps are predefined before development
