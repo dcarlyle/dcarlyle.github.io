@@ -1,5 +1,5 @@
 ---
-title: "Udacity 1: Simple neural network in python"
+title: "Simple neural network in python"
 header:
   overlay_image: /assets/images/udacity1.jpg
   caption: "Photo credit: [**Viktor Kern**](https://unsplash.com/@viktorkern)"
