@@ -31,14 +31,6 @@ Quantum computers are still in development, but the accuracy of them is improvin
 
 A cryptologically useful quantum computer would be exponentially faster than classical computers and could break nearly every kind of encryption used to protect banking, medical, business and government records around the world.
 
-## Talking to the FT
-Part of how I like to [stay informed](https://dcarlyle.github.io/assets/video/DOMINIC%20CARLYLE%2004%20(1).mp4)
-[![alt text](https://dcarlyle.github.io/assets/images/FT_screen_04.png
- "FT as a source for information")](https://dcarlyle.github.io/assets/video/DOMINIC%20CARLYLE%2004%20(1).mp4)
- 
-* [FT youtube channel](https://www.youtube.com/watch?v=43g9izGoycI&feature=youtu.be)
-* [Why clients value the FT](https://enterprise.ft.com/en-gb/services/group-subscriptions/)
-
 
 ## Resources
 * Further information on [quantum resistant  encryption]( https://en.wikipedia.org/wiki/Post-quantum_cryptography)
