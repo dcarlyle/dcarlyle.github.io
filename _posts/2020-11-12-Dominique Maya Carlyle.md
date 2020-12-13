@@ -1,7 +1,7 @@
 ---
 title: "Dominique Maya Carlyle"
 header:
-  overlay_image: /assets/images/maya_banner.jpg
+  overlay_image: https://raw.githubusercontent.com/dcarlyle/dcarlyle.github.io/master/assets/images/maya_banner.jpg
   caption: "Photo credit: [**Maya Fay**](https://www.linkedin.com/in/maya-fay-9a046a180)"
   cta_url: "https://www.linkedin.com/in/maya-fay-9a046a180"
 categories:
