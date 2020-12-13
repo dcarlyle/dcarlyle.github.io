@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Discovering machine learning"
 title_separator          : "-"
-name                     : "Dom Carlyle"
+name                     : "Dominique Maya Carlyle"
 description              : "AI machine learning projects, research & articles"
 url                      : "https://dcarlyle.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
