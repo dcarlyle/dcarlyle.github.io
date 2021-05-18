@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Discovering machine learning"
 title_separator          : "-"
-name                     : "Dominique Maya Carlyle"
+name                     : "Maya Carlyle"
 description              : "AI machine learning projects, research & articles"
 url                      : "https://dcarlyle.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dominique Maya Carlyle"
+  name             : "Maya Carlyle"
   avatar           : "/assets/images/bio_pic_7.png"
   bio              : "AI enthusiast and researcher"
   location         : "London"
@@ -94,7 +94,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "domcarlyle"
+  linkedin         : "maya-carlyle-9a046a180"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
