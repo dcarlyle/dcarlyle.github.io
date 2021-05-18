@@ -1,5 +1,5 @@
 ---
-title: "Dominique Maya Carlyle"
+title: "Maya Dominique Carlyle"
 header:
   overlay_image: assets/images/maya_banner.jpg
   caption: "Photo credit: [**Maya Fay**](https://www.linkedin.com/in/maya-fay-9a046a180)"
@@ -10,8 +10,10 @@ categories:
   - About
   - Profile
 tags:
-  - Maya Fay
-  - Dominique Maya Carlyle
+  - Maya
+  - Dominique 
+  - Maya 
+  - Carlyle
 last_modified_at: 2020-11-18T11:45:09-04:00
 ---
 
